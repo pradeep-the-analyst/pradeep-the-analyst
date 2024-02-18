@@ -2,19 +2,22 @@
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
+![Profile Views](https://profile-counter.glitch.me/pradeep-the-analyst/count)
 
 ## About Me
 
-- 💼 Data Analyst
+- 💼 Aspiring Data Analyst
 - 🌱 Currently pursuing the Google Data Analytics Certification
-- 🎓 Bachelor's in Hotel Management
+- 🎓 Bachelor's in Hospitality Management 
 
-## Skills
+## Tools and Languages
 
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 
 ## Projects
 
